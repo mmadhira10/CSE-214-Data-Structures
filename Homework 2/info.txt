@@ -1,0 +1,39 @@
+artist: Camille Saint-Saens
+name: Danse Macabre
+album: Opus 40
+length: 10sec
+
+artist: Julius Fucik
+name: Entry of the Gladiators 
+album: 40 Famous Marches
+length: 9 sec
+
+artist: Robert Burns
+name: Auld Lang Syne
+album: Hogmanay
+length: 11 sec
+
+artist: Pyotr Tchaikovsky 
+name: 1812 Overture
+album: Royal Albert Hall
+length: 9 sec
+
+artist: Aaron Copland
+name: FanfareForTheCommonMan
+album: Just Classics 2
+length: 9 sec
+
+artist: Mozart
+name: Marriage of Figaro
+album: Le nozze di Figaro
+length: 10 sec
+
+artist: Beethoven
+name: Ode to Joy 
+album: An die Freude
+length: 9 sec
+
+artist: Richard Strauss
+name: Sprach Zarathustra
+album: Thus Spake Zarathustra
+length: 10 sec
